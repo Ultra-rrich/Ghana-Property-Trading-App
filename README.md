@@ -13,3 +13,4 @@ I got the UI inspiration from Dribble and decided to hardcode it. it been exciti
 
 You can contribute or collaborate so that we make it a fully function real estate application.
  
+Please find the code in the lib directory.
