@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "872337585161",
+    "project_id": "gpt-app-79bbc",
+    "storage_bucket": "gpt-app-79bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872337585161:android:04245a4721e756bddbb4d8",
+        "android_client_info": {
+          "package_name": "com.example.gpt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872337585161-8fpdc4bfjm10ps6c137oces5lvg2ro40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuimFW_KoyJnU3q3hIfJgdtjHFaJIjEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872337585161-8fpdc4bfjm10ps6c137oces5lvg2ro40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872337585161-n88mkqhu3e5p1774gegpc07i738naug5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gptApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
